@@ -62,4 +62,12 @@ _Konbanwa. Korekara sagyō o hajimemasu. Yoroshikuonegaiitashimasu._
 
 _____
 
+**見えますか？**
+
+_Miemasuka?_
+
+`မြင်ရပါသလား`
+
+_____
+
 
